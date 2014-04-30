@@ -1,0 +1,8 @@
+sys:942,disk:836,mem:805,cpu:859,datetime:2014-04-28 10:57:30,net:771,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:942,disk:836,mem:805,cpu:859,datetime:2014-04-28 10:57:36,net:771,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:942,disk:836,mem:805,cpu:859,datetime:2014-04-28 10:57:41,net:771,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:814,disk:814,mem:774,cpu:808,datetime:2014-04-28 10:57:47,net:884,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:814,disk:814,mem:774,cpu:808,datetime:2014-04-28 10:57:52,net:884,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:814,disk:814,mem:774,cpu:808,datetime:2014-04-28 10:57:57,net:884,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:814,disk:814,mem:774,cpu:808,datetime:2014-04-28 10:58:03,net:884,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
+sys:845,disk:819,mem:807,cpu:784,datetime:2014-04-28 10:58:08,net:788,vmName:T14-vHost01-cum1-2GB-NFS2-lab3_base5 _.133.21;
